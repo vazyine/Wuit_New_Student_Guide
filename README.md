@@ -12,17 +12,17 @@ Q：我可以干什么？  
 A：任何能够看到这个界面的人，你都可以共同来协助我完整这份指南，我将会在最终版里面附上所有为该指南做出贡献的人员名单。
 
 Q：目前完成多少了？    
-A：[完成部分][1]、[编写部分][2]
+A：目前我独自完成了[目录部分][1]（当然你们也可以继续提出来补充目录）和1.1的内容。
+
+
 
 Q：我想要协助你，我该怎么做？    
-A：你需要了解1.[Markdown语法][3]、2.[Github][4]。如果你不知道，可以参考[我要求的语法规范][5]，就可以按照下面我给出的方法来协助我完成这篇教程
+A：你需要了解1.[Markdown语法][2]、2.[Github][3]。如果你不知道，可以参考[我要求的语法规范][4]，就可以按照下面我给出的方法来协助我完成这篇教程
 
 
-
-  [1]: https://github.com/Latezly/Wuit_New_Student_Guide/blob/master/Text.md
-  [2]: https://github.com/Latezly/Wuit_New_Student_Guide/blob/dev/Text.md
-  [3]: https://www.zhihu.com/question/20409634
-  [4]: https://www.zhihu.com/question/20070065
-  [5]: https://github.com/Latezly/Wuit_New_Student_Guide/blob/master/grammar.md
+  [1]: https://github.com/Latezly/Wuit_New_Student_Guide/blob/dev/Text.md
+  [2]: https://www.zhihu.com/question/20409634
+  [3]: https://www.zhihu.com/question/20070065
+  [4]: https://github.com/Latezly/Wuit_New_Student_Guide/blob/master/grammar.md
  
   
